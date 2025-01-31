@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[Link](https://i.imgur.com/ldHgc1D.mp4)
+[Video Link](https://i.imgur.com/ldHgc1D.mp4)
 
 ## Notes
 Challenges Encountered
