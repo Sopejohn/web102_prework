@@ -25,6 +25,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/ldHgc1D.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Link](https://i.imgur.com/ldHgc1D.mp4)
 
 ## Notes
 Challenges Encountered
